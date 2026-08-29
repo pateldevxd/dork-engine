@@ -1,0 +1,1 @@
+("Software Engineer" OR "Softwareentwickler" OR "Software Developer" OR "Softwareentwicklerin" OR "Software Developer/in") ("Bewerben" OR "Jetzt bewerben" OR "Online bewerben" OR "Apply now" OR "Apply online") ("E-Mail" OR "Email" OR "Kontakt" OR "Contact" OR "Recruiting" OR "Recruiter" OR "Talent Acquisition") "Deutschland"
